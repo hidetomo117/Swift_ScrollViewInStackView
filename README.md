@@ -1,1 +1,3 @@
 # Swift_ScrollViewInStackView
+ScrollViewの中に配置したStackViewの要素数をコードから動的に変更するサンプル。
+要素数に応じてScrollViewのスクロール領域を変更する。
